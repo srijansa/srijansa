@@ -78,7 +78,8 @@ When I'm not debugging or optimizing backend systems, I love spending time on:
 ---
 
 ## 📈 **GitHub Overview**:
-![Srijan's GitHub stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=srijnsa&show_icons=true&theme=calm)
+![Srijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=srijansa&show_icons=true&theme=calm)
+
 
 ---
 
