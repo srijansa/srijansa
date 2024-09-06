@@ -22,7 +22,6 @@ I have a diverse set of tools in my kit, and I love experimenting with new techn
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" alt="Hibernate" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" alt="JUnit" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="Gradle" width="40" height="40"/>
 </p>
 
 - **Languages**: Java, Python, SQL, Bash, Shell Scripting, C/C++
@@ -33,7 +32,7 @@ I have a diverse set of tools in my kit, and I love experimenting with new techn
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-1.svg" alt="AWS" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
 </p>
@@ -79,7 +78,7 @@ When I'm not debugging or optimizing backend systems, I love spending time on:
 ---
 
 ## 📈 **GitHub Overview**:
-![Srijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=srijnsa&show_icons=true&theme=calm)
+![Srijan's GitHub stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=srijnsa&show_icons=true&theme=calm)
 
 ---
 
