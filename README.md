@@ -1,4 +1,4 @@
-# Welcome to My Code Universe 🌌
+# Welcome to My Code Universe 🧿🌌
 Hi, I'm **Srijan Sareen** — a curious explorer in the realm of backend systems, databases, and cloud infrastructure. My passion lies in building highly efficient, scalable applications that solve real-world problems with a blend of **Java**, **SQL**, and cloud technologies.
 
 ---
