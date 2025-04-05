@@ -1,6 +1,6 @@
 # Welcome to My Code Universe 🧿🌌
 
-Hi, I'm **Srijan Sareen** — a backend-focused software engineer passionate about **databases**, **cloud-native architecture**, and elegant systems. I build performant, scalable applications that solve real-world problems using  **TypeScript**, **Java**, **SQL**, and AWS.
+Hi, I'm **Srijan Sareen** a focused software engineer passionate about **databases**, **cloud-native architecture**, and elegant systems. I build performant, scalable applications that solve real-world problems using  **TypeScript**, **Java**, **SQL**, and AWS.
 
 ---
 
