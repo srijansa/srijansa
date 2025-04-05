@@ -1,88 +1,90 @@
 # Welcome to My Code Universe 🧿🌌
-Hi, I'm **Srijan Sareen** — a curious explorer in the realm of backend systems, databases, and cloud infrastructure. My passion lies in building highly efficient, scalable applications that solve real-world problems with a blend of **Java**, **SQL**, and cloud technologies.
+
+Hi, I'm **Srijan Sareen** — a backend-focused software engineer passionate about **databases**, **cloud-native architecture**, and elegant systems. I build performant, scalable applications that solve real-world problems using  **TypeScript**, **Java**, **SQL**, and AWS.
 
 ---
 
-## 🧠 **What's My Code Philosophy?**
-I believe in writing code that's not just functional but also **optimized** and **elegant**. Whether it's reducing a query execution time by a few milliseconds or architecting a fault-tolerant cloud solution, I thrive on the challenge of making systems work smarter, not harder.
+## 🧠 What's My Code Philosophy?
 
-- **Focus Areas**: Java, Spring Boot, SQL, Database Optimization, AWS Cloud Services, Microservices, and API Development.
-- **Mindset**: I approach every problem with a mindset to **optimize**, be it backend logic, query performance, or cloud infrastructure.
+I believe great software is:
+- ✨ **Optimized** for performance  
+- 🧩 **Modular** for scalability  
+- 🧠 **Thoughtfully engineered** for longevity
+
+Whether it's fine-tuning a query or redesigning a service, I aim to build systems that think smart, not just work.
 
 ---
 
-## ⚙️ **My Skills Toolbox**:
-I have a diverse set of tools in my kit, and I love experimenting with new technologies to push the boundaries of what can be achieved in backend development.
+## 🧰 Tech Stack
 
-### **Languages & Frameworks**:
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" alt="Hibernate" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" alt="JUnit" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
-- **Languages**: Java, Python, SQL, Bash, Shell Scripting, C/C++
-- **Frameworks & Libraries**: Spring Boot, Hibernate, JUnit, Mockito, Maven, Gradle
+---
 
-### **Databases & Cloud**:
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-1.svg" alt="AWS" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-</p>
+## 🚀 Key Backend Projects
 
-- **SQL Databases**: PostgreSQL, MySQL
-- **NoSQL Databases**: MongoDB
-- **Cloud Providers**: AWS (EC2, RDS, S3, Lambda), Docker, Kubernetes
+### 🔗 Dynamic Asset Management Platform
+Built with **Spring Boot**, real-time SQL tuning, and **Highcharts.js**. Enabled automated asset tracking for enterprise clients.
 
-
-## 🚀 **Key Projects and Challenges**:
-Each project I take on teaches me something new. Here are some highlights where I pushed the boundaries of backend development:
-
-- **🔗 Dynamic Asset Management Platform**:
-  - Developed a platform using **Spring Boot** to automate asset management, working with real-time data. Optimized SQL queries to ensure low-latency processing for **high-profile clients**.
-  - Integrated **Highcharts.js** to visualize data metrics, helping businesses make faster, data-driven decisions.
-
-- **☁️ Cloud-Optimized Web Application**:
-  - Deployed an enterprise-grade app using **AWS** services, balancing scalability and cost-efficiency. Automated performance alerts using **CloudWatch** and implemented efficient data storage with **RDS**.
-  - Managed containerized microservices on **Kubernetes**, ensuring high availability and fault tolerance.
-
-- **⚡ Performance Optimization in Financial Services**:
-  - Spearheaded a project to reduce data update times in a financial application by 50%, leveraging **PostgreSQL triggers** and **PL/SQL procedures**.
-  - Implemented a **Quartz Scheduler** to automate critical document updates, improving client satisfaction.
+### ⚡ Financial System Optimization
+Reduced data update times by **50%** using **PostgreSQL triggers** and PL/SQL. Added automation with **Quartz Scheduler**.
 
 ---
 
-## 🔍 **How I Solve Problems:**
-I enjoy thinking deeply about challenges, particularly in optimizing systems. Here's how I typically approach a problem:
+## 🌐 React & TypeScript Frontend Projects
 
-1. **Analyze the Root Issue**: Understand where the bottlenecks are — whether in code, data access patterns, or system design.
-2. **Design a Solution**: Focus on simplicity and efficiency. I avoid over-engineering while ensuring scalability.
-3. **Optimize**: Continuously look for ways to refine the solution, whether it’s tuning a SQL query or restructuring backend logic for better performance.
+### 🪙 Crypto News App  
+> **Tech**: React + TypeScript | Styled Components | Axios  
 
----
+A fully responsive crypto dashboard with live news feeds. Includes infinite scroll, search functionality, and category filters — all designed with accessibility and performance in mind.
 
-## 🎨 **Outside of Code**:
-When I'm not debugging or optimizing backend systems, I love spending time on:
+### 🎨 Style-Hive  
+> **Tech**: React | React Hooks | Context API | Firebase Authentication  
 
-- Reading tech blogs 📚 to stay updated on trends in cloud computing and databases.
-- Exploring new open-source projects 🔍 to see how others solve interesting challenges.
-- Experimenting with new frameworks and languages, expanding my developer toolkit.
+A fashion-themed app focused on user-centric design and smooth interactions. Highlights:
 
----
-
-## 📈 **GitHub Overview**:
-![Srijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=srijansa&show_icons=true&theme=calm)
-
+- 🔐 User authentication & protected routes using **Firebase Auth**  
+- 🌍 Global state managed through **Context API**  
+- 🎯 Interactive UI with **custom animations**, styled components, and modular layout
 
 ---
 
-## 🌐 **Let’s Connect and Collaborate**:
-[![LinkedIn](https://img.shields.io/badge/Srijan_Sareen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijansa/)
-[![GitHub](https://img.shields.io/badge/Srijan_Sareen-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srijnsa)
+## 🔍 How I Solve Problems
+
+1. 🔎 **Investigate**: Locate the bottlenecks (infra, logic, data)  
+2. ✍️ **Design**: Keep it simple, modular & scalable  
+3. ⚙️ **Optimize**: Refactor for better performance, readability, and extensibility
+
+---
+
+## 🛠️ Currently Working On
+
+- Improving UI/UX in React with custom hooks & theming  
+- Deep diving into **database internals** and **distributed systems**  
+- Integrating MinIo in a microservice-based application onedatashare.org
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srijansa&show_icons=true&theme=calm)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijansa&layout=compact&theme=calm)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/Srijan_Sareen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijansa/)  
+[![GitHub](https://img.shields.io/badge/Srijan_Sareen-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srijansa)
+
+---
+
+> ✨ *Thanks for stopping by — let’s build something impactful together! Feel free to contact!*
