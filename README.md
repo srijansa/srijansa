@@ -188,8 +188,9 @@ Focus areas include:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=srijansa&show_icons=true&theme=calm&cache_seconds=21600)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=srijansa&layout=compact&theme=calm&cache_seconds=21600)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srijansa&show_icons=true&theme=calm)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijansa&layout=compact&theme=calm)
+
 
 
 ---
