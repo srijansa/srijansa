@@ -188,7 +188,7 @@ Focus areas include:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srijansa&show_icons=true&theme=calm)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srijansa&show_icons=true&theme=calm) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srijansa&layout=compact&theme=calm)
 
 ---
