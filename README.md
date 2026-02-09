@@ -1,17 +1,19 @@
 # Welcome to My Code Universe 🧿🌌
 
-Hi, I'm **Srijan Sareen** a focused software engineer passionate about **databases**, **cloud-native architecture**, and elegant systems. I build performant, scalable applications that solve real-world problems using  **TypeScript**, **Java**, **SQL**, and AWS.
+Hi, I'm **Srijan Sareen** a systems-focused software engineer passionate about **databases**, **cloud-native architecture**, and large-scale distributed platforms. I build performant, resilient applications that solve real-world infrastructure and data problems using **Java**, **TypeScript**, **SQL**, **AWS**, and intelligent automation powered by **Spring AI & ML systems**.
 
 ---
 
 ## 🧠 What's My Code Philosophy?
 
 I believe great software is:
-- ✨ **Optimized** for performance  
-- 🧩 **Modular** for scalability  
-- 🧠 **Thoughtfully engineered** for longevity
 
-Whether it's fine-tuning a query or redesigning a service, I aim to build systems that think smart, not just work.
+- ✨ **Optimized** for throughput & latency  
+- 🧩 **Modular** for scalability & service isolation  
+- 📬 **Queue-driven** for resilience & async processing  
+- 🧠 **Thoughtfully engineered** for long-term evolution  
+
+Whether it's fine-tuning a query, scaling worker fleets, or redesigning distributed pipelines. I aim to build systems that think smart, not just work.
 
 ---
 
@@ -21,6 +23,7 @@ Whether it's fine-tuning a query or redesigning a service, I aim to build system
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringAI-6DB33F?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -31,45 +34,155 @@ Whether it's fine-tuning a query or redesigning a service, I aim to build system
 
 ## 🚀 Key Backend Projects
 
-### 🔗 Dynamic Asset Management Platform
-Built with **Spring Boot**, real-time SQL tuning, and **Highcharts.js**. Enabled automated asset tracking for enterprise clients.
+### 📬 Distributed Transfer Queue Platform
 
-### ⚡ Financial System Optimization
-Reduced data update times by **50%** using **PostgreSQL triggers** and PL/SQL. Added automation with **Quartz Scheduler**.
+Designed queue-driven data transfer pipelines handling high-volume workloads.
+
+- Chunked job decomposition for parallel execution  
+- Worker-based processing fleets  
+- Retry isolation via dead-letter queues  
+- Resume-safe checkpoint tracking  
+- Horizontal scaling based on queue depth  
 
 ---
 
-## 🌐 React & TypeScript Frontend Projects
+### 🗄️ Cloud Storage Abstraction Layer
+
+Built S3-compatible storage services supporting **AWS S3 & MinIO** interoperability.
+
+- Multipart upload orchestration  
+- Parallel transfer streaming  
+- Hybrid cloud + on-prem deployments  
+- Failover-safe storage routing  
+
+---
+
+### ⚡ Financial System Optimization
+
+Reduced data update times by **50%** through:
+
+- PostgreSQL trigger automation  
+- Query execution tuning  
+- Indexed reporting pipelines  
+- Quartz-scheduled aggregation workflows  
+
+---
+
+### 🤖 ML-Based Throughput Optimization
+
+Integrated ML models into transfer systems to optimize scheduling decisions.
+
+```text
+Transfer Logs → Feature Engineering → ML Model → Throughput Prediction → Scheduler Optimization
+```
+
+Enabled:
+
+- Smarter concurrency tuning  
+- Better bandwidth utilization  
+- Faster job completion times  
+
+---
+
+### 🌱 Spring AI Intelligent Services
+
+Exploring **Spring AI** to embed intelligence into backend infrastructure.
+
+Use cases include:
+
+- Natural language system querying  
+- AI-generated observability summaries  
+- Job prioritization insights  
+- Auto-remediation recommendations  
+
+```text
+System Metrics → Spring AI → LLM Reasoning → Infra Insights
+```
+
+---
+
+## 🌐 React Projects
 
 ### 🪙 Crypto News App  
 > **Tech**: React + TypeScript | Styled Components | Axios  
 
-A fully responsive crypto dashboard with live news feeds. Includes infinite scroll, search functionality, and category filters — all designed with accessibility and performance in mind.
+A secure, fully responsive crypto intelligence dashboard delivering real-time news and market insights.
+
+Security-focused implementations include:
+
+- Token-safe API consumption with environment-based key management  
+- Rate-limited request handling to prevent abuse  
+- Sanitized rendering pipelines to mitigate XSS risks  
+- Secure search & filtering with controlled input handling  
+
+Also includes infinite scroll, category filtering, and performance-optimized feed rendering.
+
+---
 
 ### 🎨 Style-Hive  
 > **Tech**: React | React Hooks | Context API | Firebase Authentication  
 
-A fashion-themed app focused on user-centric design and smooth interactions. Highlights:
+A fashion platform engineered with a strong focus on **authentication security and session integrity**.
 
-- 🔐 User authentication & protected routes using **Firebase Auth**  
-- 🌍 Global state managed through **Context API**  
-- 🎯 Interactive UI with **custom animations**, styled components, and modular layout
+Security highlights:
+
+- 🔐 Firebase Authentication with secure login & signup flows  
+- 🛡️ Protected routes enforcing role-based access control  
+- 🔑 Token-based session management & auto-expiry handling  
+- 🚫 Unauthorized route interception & redirect guards  
+- 🌍 Secure global auth state via Context API  
+
+Combined with interactive UI, modular components, and animation-driven experiences — balancing usability with secure frontend architecture.
+
+
+---
+
+## 🏗️ System Design & Scalability Thinking
+
+I design systems in layered architecture:
+
+```text
+Ingress APIs
+     │
+     ▼
+Queue / Broker Layer
+     │
+     ▼
+Worker Compute Fleet
+     │
+     ▼
+Storage & Database Layer
+     │
+     ▼
+Observability & Metrics
+```
+
+Focus areas include:
+
+- Horizontal worker scaling  
+- Queue partitioning  
+- Idempotent processing  
+- Backpressure handling  
+- Fault isolation  
 
 ---
 
 ## 🔍 How I Solve Problems
 
-1. 🔎 **Investigate**: Locate the bottlenecks (infra, logic, data)  
-2. ✍️ **Design**: Keep it simple, modular & scalable  
-3. ⚙️ **Optimize**: Refactor for better performance, readability, and extensibility
+1. 🔎 **Investigate**: Locate bottlenecks across compute, queue, or data layers  
+2. ✍️ **Design**: Build modular & async-first architectures  
+3. ⚙️ **Optimize**: Improve concurrency, throughput, and reliability  
 
 ---
 
 ## 🛠️ Currently Working On
 
-- Improving UI/UX in React with custom hooks & theming  
-- Deep diving into **database internals** and **distributed systems**  
-- Integrating MinIo in a microservice-based application onedatashare.org
+- Queue congestion & backpressure modeling  
+- Distributed schedulers  
+- ML-driven infra optimization  
+- Database internals & indexing  
+- Spring AI production integrations  
+- Integrating MinIO in microservice-based platforms like onedatashare.org  
 
 ---
 
@@ -87,4 +200,4 @@ A fashion-themed app focused on user-centric design and smooth interactions. Hig
 
 ---
 
-> ✨ *Thanks for stopping by — let’s build something impactful together! Feel free to contact!*
+> ✨ *Thanks for stopping by, I enjoy building systems that scale reliably, process intelligently, and optimize themselves over time.*
