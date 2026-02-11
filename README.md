@@ -188,8 +188,8 @@ Focus areas include:
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=srijansa&show_icons=true&rank_icon=github&hide_border=true&cache_seconds=86400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijansa&layout=compact&hide_border=true&cache_seconds=86400" />
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srijansa)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srijansa)
 
 ---
 
