@@ -187,12 +187,6 @@ Focus areas include:
 ---
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srijansa&show_icons=true&rank_icon=github&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijansa&layout=compact&hide_border=true" height="165" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=srijansa&hide_border=true" height="165" />
 </p>
